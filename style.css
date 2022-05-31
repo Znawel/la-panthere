@@ -317,7 +317,7 @@ a:hover {
 
 .navbar .nav {
     padding-top: 2px;
-    margin-right: -16px;
+    margin-right: 80px;
     float: right;
     z-index: 1;
 }
@@ -326,6 +326,8 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    padding-right: 15px;
+    list-style: none;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -476,7 +478,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 50px!important;
 }
 
 .icon-lg {
@@ -677,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -707,6 +709,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    text-align: center;
 }
 
 h3 {
@@ -775,7 +778,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
